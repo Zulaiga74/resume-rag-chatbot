@@ -30,5 +30,5 @@ A Resume Question-Answering chatbot built using:
 pip install -r requirements.txt
 python -m streamlit run app.py
 
-**## Live Link**
+Live Link :
 🔗https://resume-rag-chatbot-3h2yyfmrnlpmneyx4ew2oc.streamlit.app/
